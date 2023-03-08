@@ -1,0 +1,5 @@
+GeeoServer
+bolt.db
+debug
+*bolt.db
+vendor
